@@ -13,12 +13,13 @@ The primary goal of this analysis is to process and analyze hotel booking data t
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PySpark</b> 
-- <b>Hadoop Distributed File System(HDFS)</b>
+- <b>Python</b> 
+- <b>Jupyter Lab</b>
 
 <h2>Environments Used </h2>
 
-- <b>Google Cloud</b> 
+- <b>Anaconda</b>
+- <b>Mac OS</b>
 
 <h2>Program walk-through:</h2>
 
