@@ -3,10 +3,10 @@
  
 
 <h2>Description</h2>
-Tourism is a vital component of the global economy, with hotels serving as key players in the hospitality sector. Understanding the dynamics of hotel bookings is crucial for various stakeholders, including hotel managers, marketers, and policymakers. In this analysis, we delve into hotel booking data to uncover trends, preferences, and patterns that can inform decision-making processes within the hospitality industry.
+Cancer remains a formidable challenge, impacting both physical and mental well-being. Understanding the psychological state of cancer patients is crucial for effective treatment and comprehensive care. This project aims to develop a predictive sentiment analysis model to assess the mental state of cancer patients and caregivers based on textual responses. By leveraging advanced computational techniques, the model seeks to provide valuable insights into patients' emotional well-being throughout their cancer journey.
 
 <h2>Objective</h2>
-The primary goal of this analysis is to process and analyze hotel booking data to identify trends, booking preferences, and cancellations. By exploring various aspects such as booking patterns, customer demographics, and cancellation rates, we aim to gain insights that can help hotel managers optimize their operations, tailor their marketing strategies, and enhance customer satisfaction.
+The objective of this project is to develop a predictive sentiment analysis model to assess the mental state of cancer patients and caregivers based on textual responses. By utilizing natural language processing and machine learning algorithms, the model aims to discern emotional nuances within textual narratives. Through the analysis of linguistic cues and sentiment patterns, the model will provide valuable insights into the psychological well-being of individuals affected by cancer. The ultimate goal is to enhance the quality of care provided to cancer patients by enabling healthcare practitioners to proactively identify and address psychosocial concerns, tailor interventions to individual needs, and foster a supportive environment conducive to emotional well-being.
 
 <br />
 
