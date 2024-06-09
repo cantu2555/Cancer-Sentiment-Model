@@ -24,19 +24,19 @@ The objective of this project is to develop a predictive sentiment analysis mode
 <h2>Program walk-through:</h2>
 
 <p align="center">
-HDFS Upload: <br/>
+Sentiment Intensity: <br/>
 <img src="https://i.imgur.com/7QYJPH5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-PySpark Data Access:  <br/>
+Sentiment VS Intensity:  <br/>
 <img src="https://i.imgur.com/9EAQWwN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Hotel Cancellations Top Months: <br/>
+ Accuracy: <br/>
 <img src="https://i.imgur.com/mxOHE8O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Weekend Bookings Resort vs City:  <br/>
+Confusion Matrix:  <br/>
 <img src="https://i.imgur.com/eZZhMZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
