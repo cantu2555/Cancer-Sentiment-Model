@@ -25,19 +25,19 @@ The objective of this project is to develop a predictive sentiment analysis mode
 
 <p align="center">
 HDFS Upload: <br/>
-<img src="https://i.imgur.com/Bq5Je1u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7QYJPH5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 PySpark Data Access:  <br/>
-<img src="https://i.imgur.com/V9Ku4R3.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9EAQWwN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Hotel Cancellations Top Months: <br/>
-<img src="https://i.imgur.com/w1zT0zZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mxOHE8O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Weekend Bookings Resort vs City:  <br/>
-<img src="https://i.imgur.com//E8flBjA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eZZhMZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
